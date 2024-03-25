@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">wifi_aware_test</string>
+    <string name="wifiawaresession">WifiAwareSession</string>
+    <string name="client">Client</string>
+    <string name="server">Server</string>
+    <string name="session_name">Session Name</string>
+    <string name="name">Name</string>
+    <string name="service_name">Service Name</string>
+    <string name="peerhandle">PeerHandle</string>
+    <string name="publish_discovery_session">publish discovery session</string>
+    <string name="subscribe_discovery_session">subscribe discovery session</string>
+    <string name="connect">Connect</string>
+    <string name="disconnect">Disconnect</string>
+    <string name="serversocketthread">serversocketthread</string>
+    <string name="clientsocketthread">clientsocketthread</string>
+    <string name="message">message</string>
+    <string name="session">전송(Session)</string>
+    <string name="socket">전송(Socket)</string>
+    <string name="hello">hello....</string>
+</resources>
